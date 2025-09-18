@@ -25,9 +25,17 @@
 
 您也可以在twikoo中直接调用owo.json进行使用：
 
+原仓库表情包调用：
+
 ```
 https://fastly.jsdelivr.net/gh/willow-god/owo/.json/twikoo-emoji.json
 ```
+
+本仓库表情包调用：
+```
+https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/twikoo-emoji.json
+```
+
 
 ## 贡献
 
