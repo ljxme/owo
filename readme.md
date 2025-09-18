@@ -36,6 +36,10 @@ https://fastly.jsdelivr.net/gh/willow-god/owo/.json/twikoo-emoji.json
 https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/twikoo-emoji.json
 ```
 
+最新版调用（无需等待刷新）：
+```
+https://fastly.jsdelivr.net/gh/artemisia1107/owo@main/.json/twikoo-emoji.json?v=2
+```
 
 ## 贡献
 
