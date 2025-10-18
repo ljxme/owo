@@ -33,15 +33,15 @@ https://fastly.jsdelivr.net/gh/willow-god/owo/.json/twikoo-emoji.json
 
 本仓库表情包调用：
 ```
-https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/twikoo-emoji.json
+https://fastly.jsdelivr.net/gh//owo/.json/twikoo-emoji.json
 ```
 或者：
 ```
-https://xget.artemisia.icu/gh/artemisia1107/owo/raw/refs/heads/main/.json/twikoo-emoji.json
+https://xget.artemisia.icu/gh/ljxme/owo/raw/refs/heads/main/.json/twikoo-emoji.json
 ```
 最新版调用（无需等待刷新）：
 ```
-https://fastly.jsdelivr.net/gh/artemisia1107/owo@main/.json/twikoo-emoji.json?v=2
+https://fastly.jsdelivr.net/gh/ljxme/owo@main/.json/twikoo-emoji.json?v=2
 ```
 
 ## 贡献
