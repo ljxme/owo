@@ -1,0 +1,29 @@
+{
+  "name": "小电视",
+  "prefix": "bilibili-",
+  "type": "png",
+  "icon": "bilibili-doge",
+  "items": [
+    "bilibili-doge",
+    "bilibili-亲亲",
+    "bilibili-偷笑",
+    "bilibili-再见",
+    "bilibili-冷漠",
+    "bilibili-发怒",
+    "bilibili-发财",
+    "bilibili-可爱",
+    "bilibili-吐血",
+    "bilibili-呆",
+    "bilibili-呕吐",
+    "bilibili-困",
+    "bilibili-坏笑",
+    "bilibili-大佬",
+    "bilibili-大哭",
+    "bilibili-委屈",
+    "bilibili-害羞",
+    "bilibili-尴尬",
+    "bilibili-微笑",
+    "bilibili-思考",
+    "bilibili-惊吓"
+  ]
+}

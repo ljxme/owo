@@ -12,7 +12,6 @@
 
 - **线条小狗动态表情包**：这个系列包含了一系列生动有趣的线条小狗动态表情，总共 43 种，每一种都展现了线条小狗的可爱与机智。无论是表达情感、分享心情，还是幽默地传递讯息，这些表情都是绝佳的选择。
 - **Blobcat 动态表情包**：这个系列包含了多种生动有趣的 Blobcat 动态表情，总共 54 种，每一种都展现了 Blobcat 的可爱和俏皮。无论是表达情感、分享心情，还是幽默地传递讯息，这些表情都是绝佳的选择。
-- **liushen 动态表情包**：这个系列包含了多种生动有趣的 清羽酱表情，展现了各种不同的表情和情绪。无论是惊喜、开心、难过还是愤怒，这些表情都能帮助您生动地表达自己的情感。总共包含了多种设计，每一种都充满了活力和个性。
 - **bilibili动态表情包**：这个系列包含了多种独特而有趣的 bilibili 动态表情，展现了各种可爱和有趣的角色。无论您想要表达喜悦、惊讶、困惑还是其他情绪，这些表情都能帮助您传达出您的心情。总共包含了多种风格，每一种都充满了个性和魅力。
 
 ## 如何使用
@@ -43,6 +42,37 @@ https://xget.artemisia.icu/gh/ljxme/owo/raw/refs/heads/main/.json/twikoo-emoji.j
 ```
 https://fastly.jsdelivr.net/gh/ljxme/owo@main/.json/twikoo-emoji.json?v=2
 ```
+
+### Waline 评论系统
+
+本项目现已支持 Waline 评论系统！您可以在 Waline 中使用这些精美的表情包。
+
+**使用方法：**
+
+在 Waline 初始化时添加 `emoji` 选项：
+
+```javascript
+Waline.init({
+  el: '#waline',
+  serverURL: '您的 Waline 服务端地址',
+  emoji: [
+    'https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/waline/blobcat/',
+    'https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/waline/linedog/',
+    'https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/waline/bilibili/',
+    'https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/waline/heybox_cube/',
+    'https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/waline/heybox_heniang/',
+  ]
+});
+```
+
+**支持的表情包系列：**
+- **可爱猫** (blobcat) - 54个PNG表情
+- **线条狗** (linedog) - 43个GIF动态表情  
+- **小电视** (bilibili) - 21个PNG表情
+- **小黑盒方块** (heybox_cube) - 78个PNG表情
+- **小黑盒和娘** (heybox_heniang) - 24个PNG表情
+
+每个表情包都包含完整的 `info.json` 配置文件，符合 Waline 官方规范。
 
 ## 贡献
 
