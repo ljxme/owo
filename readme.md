@@ -32,7 +32,7 @@ https://fastly.jsdelivr.net/gh/willow-god/owo/.json/twikoo-emoji.json
 
 本仓库表情包调用：
 ```
-https://fastly.jsdelivr.net/gh//owo/.json/twikoo-emoji.json
+https://fastly.jsdelivr.net/gh/ljxme/owo/.json/twikoo-emoji.json
 ```
 或者：
 ```

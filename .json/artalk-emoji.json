@@ -1,155 +1,5 @@
 [
   {
-    "name": "liushen",
-    "type": "image",
-    "items": [
-      {
-        "key": "liushen-angry",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-angry.png"
-      },
-      {
-        "key": "liushen-chowdown",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-chowdown.png"
-      },
-      {
-        "key": "liushen-cold",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-cold.png"
-      },
-      {
-        "key": "liushen-confused",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-confused.png"
-      },
-      {
-        "key": "liushen-congratulation",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-congratulation.png"
-      },
-      {
-        "key": "liushen-cry",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-cry.png"
-      },
-      {
-        "key": "liushen-cutehold",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-cutehold.png"
-      },
-      {
-        "key": "liushen-dislike",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-dislike.png"
-      },
-      {
-        "key": "liushen-eatmelon",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-eatmelon.png"
-      },
-      {
-        "key": "liushen-funny",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-funny.png"
-      },
-      {
-        "key": "liushen-Garbage",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-Garbage.png"
-      },
-      {
-        "key": "liushen-good",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-good.png"
-      },
-      {
-        "key": "liushen-grinding",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-grinding.png"
-      },
-      {
-        "key": "liushen-happy",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-happy.png"
-      },
-      {
-        "key": "liushen-hehesmile",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-hehesmile.png"
-      },
-      {
-        "key": "liushen-helpless",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-helpless.png"
-      },
-      {
-        "key": "liushen-hityou",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-hityou.png"
-      },
-      {
-        "key": "liushen-homework",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-homework.png"
-      },
-      {
-        "key": "liushen-hot",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-hot.png"
-      },
-      {
-        "key": "liushen-hustle",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-hustle.png"
-      },
-      {
-        "key": "liushen-loveyou",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-loveyou.png"
-      },
-      {
-        "key": "liushen-mindblown",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-mindblown.png"
-      },
-      {
-        "key": "liushen-nosee",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-nosee.png"
-      },
-      {
-        "key": "liushen-peek",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-peek.png"
-      },
-      {
-        "key": "liushen-petrified",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-petrified.png"
-      },
-      {
-        "key": "liushen-prison",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-prison.png"
-      },
-      {
-        "key": "liushen-prond",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-prond.png"
-      },
-      {
-        "key": "liushen-sad",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-sad.png"
-      },
-      {
-        "key": "liushen-shoot",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-shoot.png"
-      },
-      {
-        "key": "liushen-shy",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-shy.png"
-      },
-      {
-        "key": "liushen-sigh",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-sigh.png"
-      },
-      {
-        "key": "liushen-slacking",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-slacking.png"
-      },
-      {
-        "key": "liushen-sleep",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-sleep.png"
-      },
-      {
-        "key": "liushen-sobface",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-sobface.png"
-      },
-      {
-        "key": "liushen-tired",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-tired.png"
-      },
-      {
-        "key": "liushen-work",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/liushen/liushen-work.png"
-      }
-    ]
-  },
-  {
     "name": "blobcat",
     "type": "image",
     "items": [
@@ -736,6 +586,10 @@
         "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/heybox_cube/cube_emoji-哇.png"
       },
       {
+        "key": "cube_emoji-哭泣",
+        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/heybox_cube/cube_emoji-哭泣.png"
+      },
+      {
         "key": "cube_emoji-喜欢",
         "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/heybox_cube/cube_emoji-喜欢.png"
       },
@@ -950,10 +804,6 @@
       {
         "key": "cube_emoji-黑人问号",
         "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/heybox_cube/cube_emoji-黑人问号.png"
-      },
-      {
-        "key": "cube_emoji_v19-哭泣",
-        "val": "https://fastly.jsdelivr.net/gh/artemisia1107/owo/heybox_cube/cube_emoji_v19-哭泣.png"
       }
     ]
   },
