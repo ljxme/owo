@@ -1,223 +1,62 @@
 {
   "name": "可爱猫",
+  "folder": "https://fastly.jsdelivr.net/gh/ljxme/owo@v1.2.0/blobcat",
   "prefix": "",
   "type": "png",
   "items": [
-    {
-      "text": "blobcat0_0",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcat0_0.png"
-    },
-    {
-      "text": "blobcatalt",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatalt.png"
-    },
-    {
-      "text": "blobcatangry",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatangry.png"
-    },
-    {
-      "text": "blobcatattentionreverse",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatattentionreverse.png"
-    },
-    {
-      "text": "blobcatblush",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatblush.png"
-    },
-    {
-      "text": "blobcatbox",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatbox.png"
-    },
-    {
-      "text": "blobcatcaged",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcaged.png"
-    },
-    {
-      "text": "blobcatcoffee",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcoffee.png"
-    },
-    {
-      "text": "blobcatcomftears",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcomftears.png"
-    },
-    {
-      "text": "blobcatcomfy",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcomfy.png"
-    },
-    {
-      "text": "blobcatcry",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcry.png"
-    },
-    {
-      "text": "blobcatdead",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatdead.png"
-    },
-    {
-      "text": "blobcatdisturbed",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatdisturbed.png"
-    },
-    {
-      "text": "blobcatfacepalm",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatfacepalm.png"
-    },
-    {
-      "text": "blobcatfearful",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatfearful.png"
-    },
-    {
-      "text": "blobcatfingerguns",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatfingerguns.png"
-    },
-    {
-      "text": "blobcatflip",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatflip.png"
-    },
-    {
-      "text": "blobcatflower",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatflower.png"
-    },
-    {
-      "text": "blobcatgay",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatgay.png"
-    },
-    {
-      "text": "blobcatgooglytrash",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatgooglytrash.png"
-    },
-    {
-      "text": "blobcatheadphones",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheadphones.png"
-    },
-    {
-      "text": "blobcatheart",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheart.png"
-    },
-    {
-      "text": "blobcatheartbroken",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheartbroken.png"
-    },
-    {
-      "text": "blobcatheartpride",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheartpride.png"
-    },
-    {
-      "text": "blobcathighfive",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcathighfive.png"
-    },
-    {
-      "text": "blobcatkissheart",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatkissheart.png"
-    },
-    {
-      "text": "blobcatlove",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatlove.png"
-    },
-    {
-      "text": "blobcatmelt",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatmelt.png"
-    },
-    {
-      "text": "blobcatmeltthumb",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatmeltthumb.png"
-    },
-    {
-      "text": "blobcatneutral",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatneutral.png"
-    },
-    {
-      "text": "blobcatnomblobcat",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatnomblobcat.png"
-    },
-    {
-      "text": "blobcatnotlikethis",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatnotlikethis.png"
-    },
-    {
-      "text": "blobcatopenmouth",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatopenmouth.png"
-    },
-    {
-      "text": "blobcatpeek2",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpeek2.png"
-    },
-    {
-      "text": "blobcatpeekaboo",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpeekaboo.png"
-    },
-    {
-      "text": "blobcatphoto",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatphoto.png"
-    },
-    {
-      "text": "blobcatpolice",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpolice.png"
-    },
-    {
-      "text": "blobcatpresentred",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpresentred.png"
-    },
-    {
-      "text": "blobcatrainbow",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatrainbow.png"
-    },
-    {
-      "text": "blobcatreachrev",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatreachrev.png"
-    },
-    {
-      "text": "blobcatread",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatread.png"
-    },
-    {
-      "text": "blobcatsadreach",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsadreach.png"
-    },
-    {
-      "text": "blobcatsaitama",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsaitama.png"
-    },
-    {
-      "text": "blobcatscared",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatscared.png"
-    },
-    {
-      "text": "blobcatshocked",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatshocked.png"
-    },
-    {
-      "text": "blobcatsipsweat",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsipsweat.png"
-    },
-    {
-      "text": "blobcatsnapped",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsnapped.png"
-    },
-    {
-      "text": "blobcatsnuggle",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsnuggle.png"
-    },
-    {
-      "text": "blobcatthink",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatthink.png"
-    },
-    {
-      "text": "blobcattriumph",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcattriumph.png"
-    },
-    {
-      "text": "blobcatumm",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatumm.png"
-    },
-    {
-      "text": "blobcatverified",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatverified.png"
-    },
-    {
-      "text": "blobcatwave",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatwave.png"
-    },
-    {
-      "text": "blobcatyandere",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatyandere.png"
-    }
+    "blobcat0_0",
+    "blobcatalt",
+    "blobcatangry",
+    "blobcatattentionreverse",
+    "blobcatblush",
+    "blobcatbox",
+    "blobcatcaged",
+    "blobcatcoffee",
+    "blobcatcomftears",
+    "blobcatcomfy",
+    "blobcatcry",
+    "blobcatdead",
+    "blobcatdisturbed",
+    "blobcatfacepalm",
+    "blobcatfearful",
+    "blobcatfingerguns",
+    "blobcatflip",
+    "blobcatflower",
+    "blobcatgay",
+    "blobcatgooglytrash",
+    "blobcatheadphones",
+    "blobcatheart",
+    "blobcatheartbroken",
+    "blobcatheartpride",
+    "blobcathighfive",
+    "blobcatkissheart",
+    "blobcatlove",
+    "blobcatmelt",
+    "blobcatmeltthumb",
+    "blobcatneutral",
+    "blobcatnomblobcat",
+    "blobcatnotlikethis",
+    "blobcatopenmouth",
+    "blobcatpeek2",
+    "blobcatpeekaboo",
+    "blobcatphoto",
+    "blobcatpolice",
+    "blobcatpresentred",
+    "blobcatrainbow",
+    "blobcatreachrev",
+    "blobcatread",
+    "blobcatsadreach",
+    "blobcatsaitama",
+    "blobcatscared",
+    "blobcatshocked",
+    "blobcatsipsweat",
+    "blobcatsnapped",
+    "blobcatsnuggle",
+    "blobcatthink",
+    "blobcattriumph",
+    "blobcatumm",
+    "blobcatverified",
+    "blobcatwave",
+    "blobcatyandere"
   ]
 }

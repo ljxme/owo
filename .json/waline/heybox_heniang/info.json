@@ -1,103 +1,32 @@
 {
   "name": "小黑盒盒娘",
+  "folder": "https://fastly.jsdelivr.net/gh/ljxme/owo@v1.2.0/heybox_heniang",
   "prefix": "",
   "type": "png",
   "items": [
-    {
-      "text": "cube2_emoji-rua!",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-rua!.png"
-    },
-    {
-      "text": "cube2_emoji-偷看",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-偷看.png"
-    },
-    {
-      "text": "cube2_emoji-吃瓜",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-吃瓜.png"
-    },
-    {
-      "text": "cube2_emoji-哈哈",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-哈哈.png"
-    },
-    {
-      "text": "cube2_emoji-哭",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-哭.png"
-    },
-    {
-      "text": "cube2_emoji-喜欢",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-喜欢.png"
-    },
-    {
-      "text": "cube2_emoji-喝奶茶",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-喝奶茶.png"
-    },
-    {
-      "text": "cube2_emoji-害羞",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-害羞.png"
-    },
-    {
-      "text": "cube2_emoji-开可乐",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-开可乐.png"
-    },
-    {
-      "text": "cube2_emoji-惊",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-惊.png"
-    },
-    {
-      "text": "cube2_emoji-挨刀",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-挨刀.png"
-    },
-    {
-      "text": "cube2_emoji-捏脸",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-捏脸.png"
-    },
-    {
-      "text": "cube2_emoji-敲开心",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-敲开心.png"
-    },
-    {
-      "text": "cube2_emoji-无语",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-无语.png"
-    },
-    {
-      "text": "cube2_emoji-滑稽",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-滑稽.png"
-    },
-    {
-      "text": "cube2_emoji-疑问",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-疑问.png"
-    },
-    {
-      "text": "cube2_emoji-痴",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-痴.png"
-    },
-    {
-      "text": "cube2_emoji-白嫖怪",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-白嫖怪.png"
-    },
-    {
-      "text": "cube2_emoji-秃",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-秃.png"
-    },
-    {
-      "text": "cube2_emoji-苦酒入喉",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-苦酒入喉.png"
-    },
-    {
-      "text": "cube2_emoji-茄化",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-茄化.png"
-    },
-    {
-      "text": "cube2_emoji-记下来",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-记下来.png"
-    },
-    {
-      "text": "cube2_emoji-诶嘿",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-诶嘿.png"
-    },
-    {
-      "text": "cube2_emoji-这...",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-这....png"
-    }
+    "cube2_emoji-rua!",
+    "cube2_emoji-偷看",
+    "cube2_emoji-吃瓜",
+    "cube2_emoji-哈哈",
+    "cube2_emoji-哭",
+    "cube2_emoji-喜欢",
+    "cube2_emoji-喝奶茶",
+    "cube2_emoji-害羞",
+    "cube2_emoji-开可乐",
+    "cube2_emoji-惊",
+    "cube2_emoji-挨刀",
+    "cube2_emoji-捏脸",
+    "cube2_emoji-敲开心",
+    "cube2_emoji-无语",
+    "cube2_emoji-滑稽",
+    "cube2_emoji-疑问",
+    "cube2_emoji-痴",
+    "cube2_emoji-白嫖怪",
+    "cube2_emoji-秃",
+    "cube2_emoji-苦酒入喉",
+    "cube2_emoji-茄化",
+    "cube2_emoji-记下来",
+    "cube2_emoji-诶嘿",
+    "cube2_emoji-这..."
   ]
 }

@@ -1,319 +1,86 @@
 {
   "name": "小黑盒方块",
+  "folder": "https://fastly.jsdelivr.net/gh/ljxme/owo@v1.2.0/heybox_cube",
   "prefix": "",
   "type": "png",
   "items": [
-    {
-      "text": "cube_emoji-2023",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-2023.png"
-    },
-    {
-      "text": "cube_emoji-2024",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-2024.png"
-    },
-    {
-      "text": "cube_emoji-2025",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-2025.png"
-    },
-    {
-      "text": "cube_emoji-doge",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-doge.png"
-    },
-    {
-      "text": "cube_emoji-H币",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-H币.png"
-    },
-    {
-      "text": "cube_emoji-P的谎言",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-P的谎言.png"
-    },
-    {
-      "text": "cube_emoji-wota",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-wota.png"
-    },
-    {
-      "text": "cube_emoji-上学丧",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-上学丧.png"
-    },
-    {
-      "text": "cube_emoji-上学乐",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-上学乐.png"
-    },
-    {
-      "text": "cube_emoji-乖",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-乖.png"
-    },
-    {
-      "text": "cube_emoji-你懂我",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-你懂我.png"
-    },
-    {
-      "text": "cube_emoji-僵尸",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-僵尸.png"
-    },
-    {
-      "text": "cube_emoji-凄凉",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-凄凉.png"
-    },
-    {
-      "text": "cube_emoji-剑星伊芙",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-剑星伊芙.png"
-    },
-    {
-      "text": "cube_emoji-剑星渡鸦",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-剑星渡鸦.png"
-    },
-    {
-      "text": "cube_emoji-加油",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-加油.png"
-    },
-    {
-      "text": "cube_emoji-叹气",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-叹气.png"
-    },
-    {
-      "text": "cube_emoji-吃鸡啦",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-吃鸡啦.png"
-    },
-    {
-      "text": "cube_emoji-吐",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-吐.png"
-    },
-    {
-      "text": "cube_emoji-吓",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-吓.png"
-    },
-    {
-      "text": "cube_emoji-吹口哨",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-吹口哨.png"
-    },
-    {
-      "text": "cube_emoji-咕咕",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-咕咕.png"
-    },
-    {
-      "text": "cube_emoji-哇",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-哇.png"
-    },
-    {
-      "text": "cube_emoji-哭泣",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-哭泣.png"
-    },
-    {
-      "text": "cube_emoji-喜欢",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-喜欢.png"
-    },
-    {
-      "text": "cube_emoji-喷水",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-喷水.png"
-    },
-    {
-      "text": "cube_emoji-困",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-困.png"
-    },
-    {
-      "text": "cube_emoji-圣诞树",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-圣诞树.png"
-    },
-    {
-      "text": "cube_emoji-太酷啦",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-太酷啦.png"
-    },
-    {
-      "text": "cube_emoji-委屈",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-委屈.png"
-    },
-    {
-      "text": "cube_emoji-嬉水女王",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-嬉水女王.png"
-    },
-    {
-      "text": "cube_emoji-学习",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-学习.png"
-    },
-    {
-      "text": "cube_emoji-小鸡",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-小鸡.png"
-    },
-    {
-      "text": "cube_emoji-并不简单",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-并不简单.png"
-    },
-    {
-      "text": "cube_emoji-庆祝",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-庆祝.png"
-    },
-    {
-      "text": "cube_emoji-庆祝圣诞",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-庆祝圣诞.png"
-    },
-    {
-      "text": "cube_emoji-开心",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-开心.png"
-    },
-    {
-      "text": "cube_emoji-微笑",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-微笑.png"
-    },
-    {
-      "text": "cube_emoji-怒",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-怒.png"
-    },
-    {
-      "text": "cube_emoji-思考ing",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-思考ing.png"
-    },
-    {
-      "text": "cube_emoji-悟空",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-悟空.png"
-    },
-    {
-      "text": "cube_emoji-惊讶",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-惊讶.png"
-    },
-    {
-      "text": "cube_emoji-感动",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-感动.png"
-    },
-    {
-      "text": "cube_emoji-我懂你",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-我懂你.png"
-    },
-    {
-      "text": "cube_emoji-打咩",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-打咩.png"
-    },
-    {
-      "text": "cube_emoji-打脸",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-打脸.png"
-    },
-    {
-      "text": "cube_emoji-捂脸哭",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-捂脸哭.png"
-    },
-    {
-      "text": "cube_emoji-握草",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-握草.png"
-    },
-    {
-      "text": "cube_emoji-摊手",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-摊手.png"
-    },
-    {
-      "text": "cube_emoji-摘墨镜",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-摘墨镜.png"
-    },
-    {
-      "text": "cube_emoji-摸摸头",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-摸摸头.png"
-    },
-    {
-      "text": "cube_emoji-晕",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-晕.png"
-    },
-    {
-      "text": "cube_emoji-欧润吉",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-欧润吉.png"
-    },
-    {
-      "text": "cube_emoji-毁灭战士",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-毁灭战士.png"
-    },
-    {
-      "text": "cube_emoji-比心",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-比心.png"
-    },
-    {
-      "text": "cube_emoji-汗",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-汗.png"
-    },
-    {
-      "text": "cube_emoji-沧桑",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-沧桑.png"
-    },
-    {
-      "text": "cube_emoji-浪人砍一刀",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-浪人砍一刀.png"
-    },
-    {
-      "text": "cube_emoji-滑稽",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-滑稽.png"
-    },
-    {
-      "text": "cube_emoji-猛男微笑",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-猛男微笑.png"
-    },
-    {
-      "text": "cube_emoji-生气",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-生气.png"
-    },
-    {
-      "text": "cube_emoji-电牛",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-电牛.png"
-    },
-    {
-      "text": "cube_emoji-睡觉",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-睡觉.png"
-    },
-    {
-      "text": "cube_emoji-窝囊",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-窝囊.png"
-    },
-    {
-      "text": "cube_emoji-笑cry",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-笑cry.png"
-    },
-    {
-      "text": "cube_emoji-良民",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-良民.png"
-    },
-    {
-      "text": "cube_emoji-蛋糕",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-蛋糕.png"
-    },
-    {
-      "text": "cube_emoji-触电QAQ",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-触电QAQ.png"
-    },
-    {
-      "text": "cube_emoji-赞",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-赞.png"
-    },
-    {
-      "text": "cube_emoji-超人",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-超人.png"
-    },
-    {
-      "text": "cube_emoji-这是什么鸟",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-这是什么鸟.png"
-    },
-    {
-      "text": "cube_emoji-酷",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-酷.png"
-    },
-    {
-      "text": "cube_emoji-闭嘴",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-闭嘴.png"
-    },
-    {
-      "text": "cube_emoji-阳",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-阳.png"
-    },
-    {
-      "text": "cube_emoji-青基之蛙一直摸你肚子",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-青基之蛙一直摸你肚子.png"
-    },
-    {
-      "text": "cube_emoji-鸡毙你",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-鸡毙你.png"
-    },
-    {
-      "text": "cube_emoji-鹅",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-鹅.png"
-    },
-    {
-      "text": "cube_emoji-黑人问号",
-      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_cube/cube_emoji-黑人问号.png"
-    }
+    "cube_emoji-2023",
+    "cube_emoji-2024",
+    "cube_emoji-2025",
+    "cube_emoji-doge",
+    "cube_emoji-H币",
+    "cube_emoji-P的谎言",
+    "cube_emoji-wota",
+    "cube_emoji-上学丧",
+    "cube_emoji-上学乐",
+    "cube_emoji-乖",
+    "cube_emoji-你懂我",
+    "cube_emoji-僵尸",
+    "cube_emoji-凄凉",
+    "cube_emoji-剑星伊芙",
+    "cube_emoji-剑星渡鸦",
+    "cube_emoji-加油",
+    "cube_emoji-叹气",
+    "cube_emoji-吃鸡啦",
+    "cube_emoji-吐",
+    "cube_emoji-吓",
+    "cube_emoji-吹口哨",
+    "cube_emoji-咕咕",
+    "cube_emoji-哇",
+    "cube_emoji-哭泣",
+    "cube_emoji-喜欢",
+    "cube_emoji-喷水",
+    "cube_emoji-困",
+    "cube_emoji-圣诞树",
+    "cube_emoji-太酷啦",
+    "cube_emoji-委屈",
+    "cube_emoji-嬉水女王",
+    "cube_emoji-学习",
+    "cube_emoji-小鸡",
+    "cube_emoji-并不简单",
+    "cube_emoji-庆祝",
+    "cube_emoji-庆祝圣诞",
+    "cube_emoji-开心",
+    "cube_emoji-微笑",
+    "cube_emoji-怒",
+    "cube_emoji-思考ing",
+    "cube_emoji-悟空",
+    "cube_emoji-惊讶",
+    "cube_emoji-感动",
+    "cube_emoji-我懂你",
+    "cube_emoji-打咩",
+    "cube_emoji-打脸",
+    "cube_emoji-捂脸哭",
+    "cube_emoji-握草",
+    "cube_emoji-摊手",
+    "cube_emoji-摘墨镜",
+    "cube_emoji-摸摸头",
+    "cube_emoji-晕",
+    "cube_emoji-欧润吉",
+    "cube_emoji-毁灭战士",
+    "cube_emoji-比心",
+    "cube_emoji-汗",
+    "cube_emoji-沧桑",
+    "cube_emoji-浪人砍一刀",
+    "cube_emoji-滑稽",
+    "cube_emoji-猛男微笑",
+    "cube_emoji-生气",
+    "cube_emoji-电牛",
+    "cube_emoji-睡觉",
+    "cube_emoji-窝囊",
+    "cube_emoji-笑cry",
+    "cube_emoji-良民",
+    "cube_emoji-蛋糕",
+    "cube_emoji-触电QAQ",
+    "cube_emoji-赞",
+    "cube_emoji-超人",
+    "cube_emoji-这是什么鸟",
+    "cube_emoji-酷",
+    "cube_emoji-闭嘴",
+    "cube_emoji-阳",
+    "cube_emoji-青基之蛙一直摸你肚子",
+    "cube_emoji-鸡毙你",
+    "cube_emoji-鹅",
+    "cube_emoji-黑人问号"
   ]
 }
