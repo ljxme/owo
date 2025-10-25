@@ -1,8 +1,9 @@
 {
   "name": "线条狗",
   "folder": "https://xget.artemisia.icu/gh/ljxme/owo/tree/main/linedog",
-  "prefix": "",
+  "prefix": null,
   "type": "gif",
+  "icon": "linedog-不要",
   "items": [
     "linedog-不要",
     "linedog-写不完了",
