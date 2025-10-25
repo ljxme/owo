@@ -2,223 +2,222 @@
   "name": "可爱猫",
   "prefix": "",
   "type": "png",
-  "icon": "blobcat0_0",
   "items": [
     {
       "text": "blobcat0_0",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcat0_0.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcat0_0.png"
     },
     {
       "text": "blobcatalt",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatalt.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatalt.png"
     },
     {
       "text": "blobcatangry",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatangry.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatangry.png"
     },
     {
       "text": "blobcatattentionreverse",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatattentionreverse.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatattentionreverse.png"
     },
     {
       "text": "blobcatblush",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatblush.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatblush.png"
     },
     {
       "text": "blobcatbox",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatbox.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatbox.png"
     },
     {
       "text": "blobcatcaged",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcaged.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcaged.png"
     },
     {
       "text": "blobcatcoffee",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcoffee.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcoffee.png"
     },
     {
       "text": "blobcatcomftears",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcomftears.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcomftears.png"
     },
     {
       "text": "blobcatcomfy",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcomfy.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcomfy.png"
     },
     {
       "text": "blobcatcry",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcry.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatcry.png"
     },
     {
       "text": "blobcatdead",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatdead.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatdead.png"
     },
     {
       "text": "blobcatdisturbed",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatdisturbed.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatdisturbed.png"
     },
     {
       "text": "blobcatfacepalm",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatfacepalm.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatfacepalm.png"
     },
     {
       "text": "blobcatfearful",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatfearful.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatfearful.png"
     },
     {
       "text": "blobcatfingerguns",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatfingerguns.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatfingerguns.png"
     },
     {
       "text": "blobcatflip",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatflip.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatflip.png"
     },
     {
       "text": "blobcatflower",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatflower.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatflower.png"
     },
     {
       "text": "blobcatgay",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatgay.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatgay.png"
     },
     {
       "text": "blobcatgooglytrash",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatgooglytrash.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatgooglytrash.png"
     },
     {
       "text": "blobcatheadphones",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheadphones.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheadphones.png"
     },
     {
       "text": "blobcatheart",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheart.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheart.png"
     },
     {
       "text": "blobcatheartbroken",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheartbroken.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheartbroken.png"
     },
     {
       "text": "blobcatheartpride",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheartpride.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatheartpride.png"
     },
     {
       "text": "blobcathighfive",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcathighfive.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcathighfive.png"
     },
     {
       "text": "blobcatkissheart",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatkissheart.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatkissheart.png"
     },
     {
       "text": "blobcatlove",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatlove.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatlove.png"
     },
     {
       "text": "blobcatmelt",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatmelt.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatmelt.png"
     },
     {
       "text": "blobcatmeltthumb",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatmeltthumb.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatmeltthumb.png"
     },
     {
       "text": "blobcatneutral",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatneutral.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatneutral.png"
     },
     {
       "text": "blobcatnomblobcat",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatnomblobcat.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatnomblobcat.png"
     },
     {
       "text": "blobcatnotlikethis",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatnotlikethis.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatnotlikethis.png"
     },
     {
       "text": "blobcatopenmouth",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatopenmouth.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatopenmouth.png"
     },
     {
       "text": "blobcatpeek2",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpeek2.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpeek2.png"
     },
     {
       "text": "blobcatpeekaboo",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpeekaboo.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpeekaboo.png"
     },
     {
       "text": "blobcatphoto",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatphoto.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatphoto.png"
     },
     {
       "text": "blobcatpolice",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpolice.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpolice.png"
     },
     {
       "text": "blobcatpresentred",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpresentred.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatpresentred.png"
     },
     {
       "text": "blobcatrainbow",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatrainbow.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatrainbow.png"
     },
     {
       "text": "blobcatreachrev",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatreachrev.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatreachrev.png"
     },
     {
       "text": "blobcatread",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatread.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatread.png"
     },
     {
       "text": "blobcatsadreach",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsadreach.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsadreach.png"
     },
     {
       "text": "blobcatsaitama",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsaitama.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsaitama.png"
     },
     {
       "text": "blobcatscared",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatscared.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatscared.png"
     },
     {
       "text": "blobcatshocked",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatshocked.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatshocked.png"
     },
     {
       "text": "blobcatsipsweat",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsipsweat.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsipsweat.png"
     },
     {
       "text": "blobcatsnapped",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsnapped.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsnapped.png"
     },
     {
       "text": "blobcatsnuggle",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsnuggle.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatsnuggle.png"
     },
     {
       "text": "blobcatthink",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatthink.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatthink.png"
     },
     {
       "text": "blobcattriumph",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcattriumph.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcattriumph.png"
     },
     {
       "text": "blobcatumm",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatumm.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatumm.png"
     },
     {
       "text": "blobcatverified",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatverified.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatverified.png"
     },
     {
       "text": "blobcatwave",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatwave.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatwave.png"
     },
     {
       "text": "blobcatyandere",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatyandere.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/blobcat/blobcatyandere.png"
     }
   ]
 }

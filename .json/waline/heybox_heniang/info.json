@@ -2,103 +2,102 @@
   "name": "小黑盒盒娘",
   "prefix": "",
   "type": "png",
-  "icon": "cube2_emoji-rua!",
   "items": [
     {
       "text": "cube2_emoji-rua!",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-rua!.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-rua!.png"
     },
     {
       "text": "cube2_emoji-偷看",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-偷看.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-偷看.png"
     },
     {
       "text": "cube2_emoji-吃瓜",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-吃瓜.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-吃瓜.png"
     },
     {
       "text": "cube2_emoji-哈哈",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-哈哈.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-哈哈.png"
     },
     {
       "text": "cube2_emoji-哭",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-哭.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-哭.png"
     },
     {
       "text": "cube2_emoji-喜欢",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-喜欢.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-喜欢.png"
     },
     {
       "text": "cube2_emoji-喝奶茶",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-喝奶茶.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-喝奶茶.png"
     },
     {
       "text": "cube2_emoji-害羞",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-害羞.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-害羞.png"
     },
     {
       "text": "cube2_emoji-开可乐",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-开可乐.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-开可乐.png"
     },
     {
       "text": "cube2_emoji-惊",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-惊.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-惊.png"
     },
     {
       "text": "cube2_emoji-挨刀",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-挨刀.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-挨刀.png"
     },
     {
       "text": "cube2_emoji-捏脸",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-捏脸.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-捏脸.png"
     },
     {
       "text": "cube2_emoji-敲开心",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-敲开心.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-敲开心.png"
     },
     {
       "text": "cube2_emoji-无语",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-无语.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-无语.png"
     },
     {
       "text": "cube2_emoji-滑稽",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-滑稽.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-滑稽.png"
     },
     {
       "text": "cube2_emoji-疑问",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-疑问.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-疑问.png"
     },
     {
       "text": "cube2_emoji-痴",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-痴.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-痴.png"
     },
     {
       "text": "cube2_emoji-白嫖怪",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-白嫖怪.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-白嫖怪.png"
     },
     {
       "text": "cube2_emoji-秃",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-秃.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-秃.png"
     },
     {
       "text": "cube2_emoji-苦酒入喉",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-苦酒入喉.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-苦酒入喉.png"
     },
     {
       "text": "cube2_emoji-茄化",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-茄化.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-茄化.png"
     },
     {
       "text": "cube2_emoji-记下来",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-记下来.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-记下来.png"
     },
     {
       "text": "cube2_emoji-诶嘿",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-诶嘿.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-诶嘿.png"
     },
     {
       "text": "cube2_emoji-这...",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-这....png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/heybox_heniang/cube2_emoji-这....png"
     }
   ]
 }

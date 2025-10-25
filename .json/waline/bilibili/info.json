@@ -2,91 +2,90 @@
   "name": "小电视",
   "prefix": "",
   "type": "png",
-  "icon": "bilibili-doge",
   "items": [
     {
       "text": "bilibili-doge",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-doge.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-doge.png"
     },
     {
       "text": "bilibili-亲亲",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-亲亲.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-亲亲.png"
     },
     {
       "text": "bilibili-偷笑",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-偷笑.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-偷笑.png"
     },
     {
       "text": "bilibili-再见",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-再见.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-再见.png"
     },
     {
       "text": "bilibili-冷漠",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-冷漠.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-冷漠.png"
     },
     {
       "text": "bilibili-发怒",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-发怒.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-发怒.png"
     },
     {
       "text": "bilibili-发财",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-发财.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-发财.png"
     },
     {
       "text": "bilibili-可爱",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-可爱.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-可爱.png"
     },
     {
       "text": "bilibili-吐血",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-吐血.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-吐血.png"
     },
     {
       "text": "bilibili-呆",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-呆.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-呆.png"
     },
     {
       "text": "bilibili-呕吐",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-呕吐.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-呕吐.png"
     },
     {
       "text": "bilibili-困",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-困.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-困.png"
     },
     {
       "text": "bilibili-坏笑",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-坏笑.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-坏笑.png"
     },
     {
       "text": "bilibili-大佬",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-大佬.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-大佬.png"
     },
     {
       "text": "bilibili-大哭",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-大哭.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-大哭.png"
     },
     {
       "text": "bilibili-委屈",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-委屈.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-委屈.png"
     },
     {
       "text": "bilibili-害羞",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-害羞.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-害羞.png"
     },
     {
       "text": "bilibili-尴尬",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-尴尬.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-尴尬.png"
     },
     {
       "text": "bilibili-微笑",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-微笑.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-微笑.png"
     },
     {
       "text": "bilibili-思考",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-思考.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-思考.png"
     },
     {
       "text": "bilibili-惊吓",
-      "icon": "<img src='https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-惊吓.png'>"
+      "url": "https://fastly.jsdelivr.net/gh/ljxme/owo/bilibili/bilibili-惊吓.png"
     }
   ]
 }
