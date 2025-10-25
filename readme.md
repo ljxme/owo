@@ -56,11 +56,11 @@ Waline.init({
   el: '#waline',
   serverURL: '您的 Waline 服务端地址',
   emoji: [
-    'https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/waline/blobcat/',
-    'https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/waline/linedog/',
-    'https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/waline/bilibili/',
-    'https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/waline/heybox_cube/',
-    'https://fastly.jsdelivr.net/gh/artemisia1107/owo/.json/waline/heybox_heniang/',
+    'https://fastly.jsdelivr.net/gh/ljxme/owo/.json/waline/blobcat/',
+    'https://fastly.jsdelivr.net/gh/ljxme/owo/.json/waline/linedog/',
+    'https://fastly.jsdelivr.net/gh/ljxme/owo/.json/waline/bilibili/',
+    'https://fastly.jsdelivr.net/gh/ljxme/owo/.json/waline/heybox_cube/',
+    'https://fastly.jsdelivr.net/gh/ljxme/owo/.json/waline/heybox_heniang/',
   ]
 });
 ```
@@ -70,7 +70,7 @@ Waline.init({
 - **线条狗** (linedog) - 43个GIF动态表情  
 - **小电视** (bilibili) - 21个PNG表情
 - **小黑盒方块** (heybox_cube) - 78个PNG表情
-- **小黑盒和娘** (heybox_heniang) - 24个PNG表情
+- **小黑盒盒娘** (heybox_heniang) - 24个PNG表情
 
 每个表情包都包含完整的 `info.json` 配置文件，符合 Waline 官方规范。
 
