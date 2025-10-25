@@ -1,7 +1,7 @@
 {
   "name": "小黑盒方块",
   "folder": "https://xget.artemisia.icu/gh/ljxme/owo/tree/main/heybox_cube",
-  "prefix": null,
+  "prefix": "",
   "type": "png",
   "icon": "cube_emoji-2023",
   "items": [
