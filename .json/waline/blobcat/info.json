@@ -1,8 +1,8 @@
 {
   "name": "可爱猫",
   "folder": "https://xget.artemisia.icu/gh/ljxme/owo/tree/main/blobcat",
-  "prefix": "blobcat-",
   "type": "png",
+  "icon": "0_0",
   "items": [
     "0_0",
     "alt",

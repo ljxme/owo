@@ -1,8 +1,8 @@
 {
   "name": "小电视",
   "folder": "https://xget.artemisia.icu/gh/ljxme/owo/tree/main/bilibili",
-  "prefix": "bilibili-",
   "type": "png",
+  "icon": "doge",
   "items": [
     "doge",
     "亲亲",

@@ -1,8 +1,8 @@
 {
   "name": "小黑盒方块",
   "folder": "https://xget.artemisia.icu/gh/ljxme/owo/tree/main/heybox_cube",
-  "prefix": "heybox_cube-",
   "type": "png",
+  "icon": "2023",
   "items": [
     "2023",
     "2024",

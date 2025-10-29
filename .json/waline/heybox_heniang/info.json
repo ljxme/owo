@@ -1,8 +1,8 @@
 {
   "name": "小黑盒盒娘",
   "folder": "https://xget.artemisia.icu/gh/ljxme/owo/tree/main/heybox_heniang",
-  "prefix": "heybox_heniang-",
   "type": "png",
+  "icon": "rua!",
   "items": [
     "rua!",
     "偷看",
